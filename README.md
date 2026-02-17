@@ -24,6 +24,7 @@ Purchase Amount
 Date
 
 Location
+
 🛠 Tools & Technologies
 
 Python: Data loading, cleaning, and EDA
@@ -37,6 +38,7 @@ Power BI: Interactive dashboard creation
 Gamma: Report presentation (PPT)
 
 Excel: Data validation & preprocessing
+
 🔄 Project Workflow (Steps)
 
 Data Loading
@@ -68,6 +70,7 @@ Built interactive Power BI dashboards with KPIs, slicers, charts, and filters.
 Reporting
 
 Created a business report and presentation using Gamma.
+
 📊 Dashboard Features
 
 Key Performance Indicators (KPIs)
@@ -81,6 +84,7 @@ Product Category Performance
 Location-based Sales Insights
 
 Interactive Filters & Slicers
+
 📈 Results & Insights
 
 Identified high-performing products and locations
