@@ -1,5 +1,6 @@
 # Customer_Behavior_Analysis
 End-to-end customer behavior analytics using Power BI, SQL, python, and data visualization techniques.
+
 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow that includes loading a dataset using Python, performing EDA and data cleaning, executing SQL queries on MySQL, building an interactive Power BI dashboard, generating a business report, and creating a presentation using Gamma.
